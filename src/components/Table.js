@@ -1,5 +1,5 @@
 import React, { useState, useContext } from 'react';
-import { useGet } from "../routes/API.js"
+import { useGet } from "../utils/API.js"
 import "./Table.css"
 import Button from "./Button.js"
 import { EmployeeAttributes } from './EmployeeAttributes.js';
