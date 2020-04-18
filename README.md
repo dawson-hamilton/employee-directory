@@ -7,7 +7,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 ### Links
 Github repo: https://github.com/dawson-hamilton/employee-directory
 
-Deployed Site: https://dawson-hamilton.github.io/employee_directory/
+Deployed Site: https://dawson-hamilton.github.io/employee-directory/
 
 
 ### Problem
